@@ -1,0 +1,2 @@
+The 3 tables for the 3 queries with their corresponding QueryId's are the excel files Query 12.xlsx, Query 13.xlsx and Query 19.xlsx. 
+My Source code is present in HW5.java and it is based on lucene. I have included the values of P@K(P@20) and MAP in every table. Please note that MAP value is the same in all the documents.
